@@ -1,0 +1,7 @@
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\bin\Debug\ArrayTask.exe.config
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\bin\Debug\ArrayTask.exe
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\bin\Debug\ArrayTask.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\obj\Debug\ArrayTask.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\obj\Debug\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\obj\Debug\ArrayTask.exe
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\ArrayTask\ArrayTask\obj\Debug\ArrayTask.pdb
