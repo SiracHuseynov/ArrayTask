@@ -70,9 +70,9 @@ namespace ArrayTask
             //    ededlerString[k] = ededler[k];
             //}
 
-            //for (int j = ededler.Length - 1; j >= 0; j--)
+            //for (int j = ededlerString.Length - 1; j >= 0; j--)
             //{
-            //    Console.WriteLine(ededler[j]);
+            //    Console.WriteLine(ededlerString[j]);
             //}
 
             #endregion
